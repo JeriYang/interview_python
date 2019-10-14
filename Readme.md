@@ -801,6 +801,8 @@ epoll改了三个缺点.
 1. 最早截至时间优先 EDF
 2. 最低松弛度优先 LLF
 
+常见的实时调度算法总结:https://www.jianshu.com/p/45da29cf56fa
+
 ## 3 死锁
 原因:
 
